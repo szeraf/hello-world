@@ -1,0 +1,8 @@
+a new instance have been created in AWS to run the CI runners.
+bootstrap config of the runner failed, needs to reconfigure manually via ssh.
+for help see: https://gitlab.com/gitlab-org/gitlab-ci-multi-runner
+
+a new test user was created in gitlab, named test_user1
+in order to log in the user should recieve an e-mail to sest his/her password, but the postfix service was not configured.
+Postfix service needs to be configured correctly, if possible to use gmail.
+for possible help see: https://easyengine.io/tutorials/linux/ubuntu-postfix-gmail-smtp/
