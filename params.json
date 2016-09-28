@@ -1,0 +1,6 @@
+{
+  "name": "Hello-world",
+  "tagline": "for tutorial purposes",
+  "body": "# hello-world\r\n\r\nThis project is a playground used to try to configure the gitlab-github-aws environment using some online tutorials.\r\n\r\nThe activities done on the separete platforms are tracked in the activity_notes file.\r\nPlease note your contributions and the required actions in the activity_notes file.\r\n\r\n### Authors:\r\nBalázs Suszter\r\n\r\nBence Vér",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
