@@ -1,6 +1,6 @@
 # hello-world
-for tutorial purposes
 
-adding some extra lines
+This project is a playground used to try to configure the gitlab-github-aws environment using some online tutorials.
 
-modification in a new branch
+The activities done on the separete platforms are tracked in the activity_notes file.
+Please note your contributions and the required actions in the activity_notes file.
